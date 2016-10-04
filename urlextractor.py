@@ -1,6 +1,6 @@
 # by Krasimir Vatchinsky - KGV Consulting Corp 
 # info@kgvconsultingcorp.com
-# this code is made for Python 2.7.s vor Python 3.x.x use input() instead of raw_input()
+# this code is made for Python 2.7.x vor Python 3.x.x use input() instead of raw_input()
 # small url link web extractor program
 
 import urllib
