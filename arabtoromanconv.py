@@ -1,9 +1,6 @@
 # Created by Krasimir Vatchinsky - KGV Consulting Corp - info@kgvconsultingcorp.com
 # Small program to help to convert user inputed arabic numbers from 1 to 10 into roman numerals, 
 # if user enter other number than 1 to 10 display an error
-# University of Albany
-# Programing for Problem Solving
-# Instructor Professor Horowitz
 
 
 arabic_roman = { 1 : 'I', 2 : 'II', 3 : 'III', 4 : 'IV', 5 : 'V', 6 : 'VI', 7 : 'VII', 8 : 'VIII', 9 : 'IX', 10 : 'X' }
